@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="pythonProject" />
+    <orderEntry type="module" module-name="day19" />
+    <orderEntry type="module" module-name="turtle graphics" />
+    <orderEntry type="module" module-name="database" />
+    <orderEntry type="module" module-name="coffee machine" />
+    <orderEntry type="module" module-name="turtle cross game" />
+    <orderEntry type="module" module-name="crossgame" />
+  </component>
+</module>

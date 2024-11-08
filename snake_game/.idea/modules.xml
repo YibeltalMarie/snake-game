@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/coffee machine/.idea/coffee machine.iml" filepath="$USER_HOME$/coffee machine/.idea/coffee machine.iml" />
+      <module fileurl="file://$USER_HOME$/crossgame/.idea/crossgame.iml" filepath="$USER_HOME$/crossgame/.idea/crossgame.iml" />
+      <module fileurl="file://$USER_HOME$/database/.idea/database.iml" filepath="$USER_HOME$/database/.idea/database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day19/.idea/day19.iml" filepath="$PROJECT_DIR$/../day19/.idea/day19.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pythonProject/.idea/pythonProject.iml" filepath="$USER_HOME$/PycharmProjects/pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/snake_game.iml" filepath="$PROJECT_DIR$/.idea/snake_game.iml" />
+      <module fileurl="file://$USER_HOME$/turtle cross game/.idea/turtle cross game.iml" filepath="$USER_HOME$/turtle cross game/.idea/turtle cross game.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/turtle graphics/.idea/turtle graphics.iml" filepath="$USER_HOME$/PycharmProjects/turtle graphics/.idea/turtle graphics.iml" />
+    </modules>
+  </component>
+</project>
